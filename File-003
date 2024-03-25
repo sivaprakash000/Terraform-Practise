@@ -1,0 +1,4 @@
+output "data"{
+    value ="This is the text data"
+    sensitive=true
+}
