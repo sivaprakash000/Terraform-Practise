@@ -1,0 +1,4 @@
+resources "aws_instance" "new_example"{
+    instance_type="t2.micro"
+    ami="XXXXXXXXXXXXXXXX"
+}
