@@ -1,0 +1,5 @@
+provider "AWS"{
+    region="us-east-1"
+    access_key="XXXXXXXXXXXXX"
+    secret_key="XXXXXXXXXXXXXXXX"
+}
